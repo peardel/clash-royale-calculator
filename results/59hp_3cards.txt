@@ -1,0 +1,9 @@
+// SAMPLE OUTPUT
+
+baby dragon, valk, spear goblins
+lumberjack, mega minion, hunter
+executioner, valk, ice spirit
+executioner, valk, heal spirit
+cannon cart, fire spirit, bomber
+battle ram, log, bomber
+battle ram, electro spirit, earthquake
